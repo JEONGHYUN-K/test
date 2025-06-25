@@ -1,0 +1,16 @@
+C:\Users\3031191\source\repos\タイマー\タイマー\bin\Debug\net9.0-windows\タイマー.exe
+C:\Users\3031191\source\repos\タイマー\タイマー\bin\Debug\net9.0-windows\タイマー.deps.json
+C:\Users\3031191\source\repos\タイマー\タイマー\bin\Debug\net9.0-windows\タイマー.runtimeconfig.json
+C:\Users\3031191\source\repos\タイマー\タイマー\bin\Debug\net9.0-windows\タイマー.dll
+C:\Users\3031191\source\repos\タイマー\タイマー\bin\Debug\net9.0-windows\タイマー.pdb
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.Form1.resources
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.vbproj.GenerateResource.cache
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.AssemblyInfoInputs.cache
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.AssemblyInfo.vb
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.vbproj.CoreCompileInputs.cache
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.dll
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\refint\タイマー.dll
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.pdb
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\タイマー.genruntimeconfig.cache
+C:\Users\3031191\source\repos\タイマー\タイマー\obj\Debug\net9.0-windows\ref\タイマー.dll

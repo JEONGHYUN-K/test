@@ -1,0 +1,17 @@
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\bin\Debug\net9.0-windows\サイコロ改良版.exe
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\bin\Debug\net9.0-windows\サイコロ改良版.deps.json
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\bin\Debug\net9.0-windows\サイコロ改良版.runtimeconfig.json
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\bin\Debug\net9.0-windows\サイコロ改良版.dll
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\bin\Debug\net9.0-windows\サイコロ改良版.pdb
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.Form1.resources
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.Resources.resources
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.vbproj.GenerateResource.cache
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.AssemblyInfoInputs.cache
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.AssemblyInfo.vb
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.vbproj.CoreCompileInputs.cache
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.dll
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\refint\サイコロ改良版.dll
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.pdb
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\サイコロ改良版.genruntimeconfig.cache
+C:\Users\3031191\source\repos\サイコロ改良版\サイコロ改良版\obj\Debug\net9.0-windows\ref\サイコロ改良版.dll
