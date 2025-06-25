@@ -1,0 +1,16 @@
+C:\Users\3031191\source\repos\例外1\例外1\bin\Debug\net9.0-windows\例外1.exe
+C:\Users\3031191\source\repos\例外1\例外1\bin\Debug\net9.0-windows\例外1.deps.json
+C:\Users\3031191\source\repos\例外1\例外1\bin\Debug\net9.0-windows\例外1.runtimeconfig.json
+C:\Users\3031191\source\repos\例外1\例外1\bin\Debug\net9.0-windows\例外1.dll
+C:\Users\3031191\source\repos\例外1\例外1\bin\Debug\net9.0-windows\例外1.pdb
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.Form1.resources
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.vbproj.GenerateResource.cache
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.AssemblyInfoInputs.cache
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.AssemblyInfo.vb
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.vbproj.CoreCompileInputs.cache
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.dll
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\refint\例外1.dll
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.pdb
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\例外1.genruntimeconfig.cache
+C:\Users\3031191\source\repos\例外1\例外1\obj\Debug\net9.0-windows\ref\例外1.dll
